@@ -1,12 +1,14 @@
 Hi there! 👋 I'm Abualhassan A Ibrahim
 
 👨‍💻 Data Analyst | 📊 Data Enthusiast | 🌍 Explorer
+
 Welcome to my GitHub profile! I'm a detail-oriented financial accountant and cost accountant with a passion for utilizing data analysis to enhance financial decision-making. With expertise in financial reporting, cost analysis, and data-driven insights, I strive to provide accurate financial information and optimize business performance.
 💼 Professional Background
 🎓 Bachelor's Degree in Accounting information systems
 🎓 Bachelor's Degree in Information Technology 
  
 💡 Skills
+
 Financial Accounting: Proficient in preparing financial statements, conducting audits, and ensuring compliance with accounting standards.
 Cost Accounting: Experienced in analyzing costs, calculating variances, and implementing cost control measures.
 Financial Modeling: Proficient in building financial models to assess business performance, forecast trends, and evaluate investment opportunities.
@@ -18,6 +20,7 @@ SQL: Strong knowledge of querying databases using SQL to retrieve and manipulate
 Data Cleaning: Experienced in handling missing data, outliers, and data inconsistencies to ensure data quality.
 
 🔧 Tools and Technologies
+
 Microsoft Excel: Advanced formulas, PivotTables, data analysis tools
 Accounting Software: QuickBooks, Smacc, Oracle, Foodics, Odoo
 Database Management: SQL
